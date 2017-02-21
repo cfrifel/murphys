@@ -1,0 +1,12 @@
+.ui.borderless.fixed.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+.middle {
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  color: white;
+}
+.footer {
+  background-color: #040;
+  color: white;
+}
